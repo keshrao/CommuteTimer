@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KeshTimer"
+rootProject.name = "CommuteApp"
 include(":app")

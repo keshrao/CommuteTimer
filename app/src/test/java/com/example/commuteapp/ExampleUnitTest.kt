@@ -1,4 +1,4 @@
-package com.example.keshtimer
+package com.example.commuteapp
 
 import org.junit.Test
 
